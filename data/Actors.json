@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"charfight1","characterIndex":0,"characterName":"charwalk1","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"face1","traits":[{"code":51,"dataId":8,"value":1},{"code":51,"dataId":7,"value":1}],"initialLevel":1,"maxLevel":10,"name":"Samuel","nickname":"Sammy","note":"","profile":""}
+]
